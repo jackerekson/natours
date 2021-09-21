@@ -46,11 +46,11 @@ body {
 .header__logo-box {
     position: absolute;
     top: 4rem;
-    left: 4rem;
+    left: 1rem;
 }
 
 .header__logo{
-    height: 3.5rem;
+    height: 13rem;
 }
 
 .header__text-box{
@@ -146,7 +146,7 @@ body {
 
 .btn:hover {
     transform: translateY(-3px);
-    box-shadow: 0 1rem 2rem rgba(0,0,0,.2);
+    box-shadow: 0 1rem 2rem rgba(0, 255, 255, 0.2);
 }
 
 .btn:active {
@@ -156,7 +156,7 @@ body {
 
 .btn--white{
     background-color: #fff;
-    color: #777;
+    color: turquoise;
 }
 
 .btn::after {
