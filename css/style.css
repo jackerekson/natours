@@ -33,9 +33,9 @@ body {
     height: 95vh;
     background-image: linear-gradient(
         to right bottom,
-        #ff8c00b1, 
-        #9b5000b6),
-    url('../img/holloween.jpg');
+        #009cdab1, 
+        #dfdfdfb6),
+    url('../img/background.jpg');
     background-size: cover;
     background-position: top;
     position: relative;
